@@ -1,11 +1,12 @@
-<b>PHP version : PHP 7.4.29</b>
+# PHP version : PHP 7.4.29
 <br>
 <b>DB :</b> MYSQL
 <br>
-<b>DBNAME :</b> laravel_books_api
+# DBNAME : laravel_books_api
 <br>
 <br>
-# Markdown Syntax for Object Notation<br>
+# COMMANDS
+<br>
 php artisan config:cache<br>
 php artisan cache:clear<br>
 php artisan view:clear<br>
