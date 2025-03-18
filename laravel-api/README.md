@@ -38,6 +38,7 @@ These routes bind functions to particular URLs as shown below.<br>
         ```
         http://127.0.0.1:8000/api/books/?book_name=book name test&author_name=author name test
         ```
+        
         object ex.<br>
             {
                 book_name : "book name test",
