@@ -7,12 +7,17 @@
 <br>
 ## COMMANDS
 <br>
-php artisan config:cache<br>
-php artisan cache:clear<br>
-php artisan view:clear<br>
-php artisan optimize<br>
-php artisan migrate:refresh<br>
-php artisan db:seed<br>
+#### MSON
+
+```
+php artisan config:cache
+php artisan cache:clear
+php artisan view:clear
+php artisan optimize
+php artisan migrate:refresh
+php artisan db:seed
+```
+
 
 <br>
 <b>Example Data :</b> books_tbl<br>
