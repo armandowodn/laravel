@@ -20,11 +20,13 @@ php artisan db:seed
 
 <br>
 <b>Example Data :</b> books_tbl<br>
-1. To Kill a Mockingbird                    => author : Harper Lee<br>
-2. 1984                                     => author : George Orwell<br>
-3. The Alchemist                            => author : Paulo Coelho<br>
-4. Atomic Habits                            => author : James Clear<br>
-5. Harry Potter and the Sorcerers Stone     => author : J.K. Rowling<br>
+| id  | book_name | author_name |
+| ------------- | ------------- | ------------- |
+| 1  | To Kill a Mockingbird  | Harper Lee  |
+| 2  | 1984 | George Orwell  |
+| 3  | The Alchemist  | Paulo Coelho  |
+| 4  | Atomic Habits  | James Clear  |
+| 5  | Harry Potter and the Sorcerers Stone  | J.K. Rowling  |
 
 <br>
 These routes bind functions to particular URLs as shown below.<br>
@@ -58,8 +60,3 @@ php artisan serve
 ```
 ## URL
 http://127.0.0.1:8000
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
