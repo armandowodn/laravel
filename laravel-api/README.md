@@ -1,11 +1,10 @@
 # PHP version : PHP 7.4.29
 <br>
+
+## DATABASE
 <b>DB :</b> MYSQL
 <br>
-
-## DBNAME : 
-<br>
-laravel_books_api
+<b>DB :</b> laravel_books_api
 <br>
 
 ## COMMANDS
