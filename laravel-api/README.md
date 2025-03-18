@@ -56,3 +56,5 @@ These routes bind functions to particular URLs as shown below.<br>
 ```
 php artisan serve
 ```
+## URL
+http://127.0.0.1:8000
