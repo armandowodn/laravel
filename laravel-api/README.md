@@ -32,7 +32,12 @@ These routes bind functions to particular URLs as shown below.<br>
 <b>GET</b>     http://127.0.0.1:8000/api/books<br>
 <b>GET</b>     http://127.0.0.1:8000/api/books/1984<br>
 <b>POST</b>    http://127.0.0.1:8000/api/books<br>
-        or http://127.0.0.1:8000/api/books/?book_name=book name test&author_name=author name test<br>
+        or
+        #### MSON
+
+        ```
+        http://127.0.0.1:8000/api/books/?book_name=book name test&author_name=author name test
+        ```
         object ex.<br>
             {
                 book_name : "book name test",
