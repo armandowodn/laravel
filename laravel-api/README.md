@@ -2,9 +2,11 @@
 <br>
 <b>DB :</b> MYSQL
 <br>
+
 ## DBNAME : laravel_books_api
 <br>
 <br>
+
 ## COMMANDS
 <br>
 
@@ -19,7 +21,8 @@ php artisan db:seed
 
 
 <br>
-<b>Example Data :</b> books_tbl<br>
+
+## Example Data : books_tbl<br>
 
 | id | book_name                               | author_name   |
 |----|-----------------------------------------|---------------|
@@ -32,7 +35,10 @@ php artisan db:seed
 
 
 <br>
-These routes bind functions to particular URLs as shown below.<br>
+
+## These routes bind functions to particular URLs as shown below.
+
+<br>
 <b>GET</b>     http://127.0.0.1:8000/api/books<br>
 <br>
 <b>GET</b>     http://127.0.0.1:8000/api/books/1984<br>
