@@ -34,6 +34,7 @@ php artisan db:seed
 
 
 <br>
+
 ## These routes bind functions to particular URLs as shown below.
 
 <br>
