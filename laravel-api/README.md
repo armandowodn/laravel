@@ -20,6 +20,7 @@ php artisan db:seed
 
 <br>
 <b>Example Data :</b> books_tbl<br>
+
 | id | book_name                               | author_name   |
 |----|-----------------------------------------|---------------|
 | 1  | To Kill a Mockingbird                   | Harper Lee    |
