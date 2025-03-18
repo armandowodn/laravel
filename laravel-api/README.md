@@ -2,10 +2,10 @@
 <br>
 <b>DB :</b> MYSQL
 <br>
-# DBNAME : laravel_books_api
+## DBNAME : laravel_books_api
 <br>
 <br>
-# COMMANDS
+## COMMANDS
 <br>
 php artisan config:cache<br>
 php artisan cache:clear<br>
