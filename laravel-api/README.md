@@ -4,7 +4,7 @@
 ## DATABASE
 <b>DB :</b> MYSQL
 <br>
-<b>DB :</b> laravel_books_api
+<b>DB NAME:</b> laravel_books_api
 <br>
 
 ## COMMANDS
