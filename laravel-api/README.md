@@ -3,8 +3,9 @@
 <b>DB :</b> MYSQL
 <br>
 
-## DBNAME : laravel_books_api
+## DBNAME : 
 <br>
+laravel_books_api
 <br>
 
 ## COMMANDS
