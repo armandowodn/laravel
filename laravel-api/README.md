@@ -7,7 +7,6 @@
 <br>
 ## COMMANDS
 <br>
-#### MSON
 
 ```
 php artisan config:cache
@@ -30,16 +29,12 @@ php artisan db:seed
 <br>
 These routes bind functions to particular URLs as shown below.<br>
 <b>GET</b>     http://127.0.0.1:8000/api/books<br>
+<br>
 <b>GET</b>     http://127.0.0.1:8000/api/books/1984<br>
+<br>
 <b>POST</b>    http://127.0.0.1:8000/api/books<br>
-        or
-        #### MSON
-
-        ```
-        http://127.0.0.1:8000/api/books/?book_name=book name test&author_name=author name test
-        ```
-        
-        object ex.<br>
+<br>
+        or http://127.0.0.1:8000/api/books/?book_name=book name test&author_name=author name test<br>object ex.<br>
             {
                 book_name : "book name test",
                 author_name : "author name test",
