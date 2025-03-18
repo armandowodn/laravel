@@ -20,13 +20,14 @@ php artisan db:seed
 
 <br>
 <b>Example Data :</b> books_tbl<br>
-| id  | book_name | author_name |
-| ------------- | ------------- | ------------- |
-| 1  | To Kill a Mockingbird  | Harper Lee  |
-| 2  | 1984 | George Orwell  |
-| 3  | The Alchemist  | Paulo Coelho  |
-| 4  | Atomic Habits  | James Clear  |
-| 5  | Harry Potter and the Sorcerers Stone  | J.K. Rowling  |
+| id | book_name                               | author_name   |
+|----|----------------------------------------|--------------|
+| 1  | To Kill a Mockingbird                 | Harper Lee   |
+| 2  | 1984                                  | George Orwell |
+| 3  | The Alchemist                         | Paulo Coelho  |
+| 4  | Atomic Habits                         | James Clear   |
+| 5  | Harry Potter and the Sorcerer's Stone | J.K. Rowling  |
+
 
 <br>
 These routes bind functions to particular URLs as shown below.<br>
