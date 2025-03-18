@@ -58,3 +58,8 @@ php artisan serve
 ```
 ## URL
 http://127.0.0.1:8000
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
