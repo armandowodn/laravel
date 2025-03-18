@@ -33,9 +33,7 @@ php artisan db:seed
 | 5  | Harry Potter and the Sorcerer's Stone   | J.K. Rowling  |
 
 
-
 <br>
-
 ## These routes bind functions to particular URLs as shown below.
 
 <br>
@@ -45,22 +43,9 @@ php artisan db:seed
 <br>
 <b>POST</b>    http://127.0.0.1:8000/api/books<br>
 <br>
-        or http://127.0.0.1:8000/api/books/?book_name=book name test&author_name=author name test<br>object ex.<br>
-            {
-                book_name : "book name test",
-                author_name : "author name test",
-            }<br>
-<br>
 <b>PUT</b>     http://127.0.0.1:8000/api/books/{id}<br>
-        or http://127.0.0.1:8000/api/a/books/7?book_name=book name test 1&author_name=author name test 2<br>
-        object ex.<br>
-        {<br>
-            book_name : "book name test updated",<br>
-            author_name : "author name test updated",<br>
-        }<br>
 <br>
 <b>DELETE</b>  http://127.0.0.1:8000/api/books/{id}<br>
-        or http://127.0.0.1:8000/api/books/7<br>
 
 ## RUN Application
 
