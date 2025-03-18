@@ -5,7 +5,7 @@
 <b>DBNAME :</b> laravel_books_api
 <br>
 <br>
-<b>COMMANDS:</b><br>
+# Markdown Syntax for Object Notation<br>
 php artisan config:cache<br>
 php artisan cache:clear<br>
 php artisan view:clear<br>
