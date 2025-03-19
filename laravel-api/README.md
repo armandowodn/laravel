@@ -1,14 +1,12 @@
 # PHP version : PHP 7.4.29
-<br>
 
 ## DATABASE
-<b>DB :</b> MYSQL
-<br>
-<b>DB NAME:</b> laravel_books_api
-<br>
+
+**DB :** MYSQL
+
+**DB NAME:** laravel_books_api
 
 ## COMMANDS
-<br>
 
 ```
 php artisan config:cache
@@ -20,7 +18,6 @@ php artisan db:seed
 ```
 
 
-<br>
 
 ## Example Data : books_tbl<br>
 
@@ -33,25 +30,27 @@ php artisan db:seed
 | 5  | Harry Potter and the Sorcerer's Stone   | J.K. Rowling  |
 
 
-<br>
 
 ## These routes bind functions to particular URLs as shown below.
 
-<br>
-<b>GET</b>     http://127.0.0.1:8000/api/books<br>
-<br>
-<b>GET</b>     http://127.0.0.1:8000/api/books/1984<br>
-<br>
-<b>POST</b>    http://127.0.0.1:8000/api/books<br>
-<br>
-<b>PUT</b>     http://127.0.0.1:8000/api/books/{id}<br>
-<br>
-<b>DELETE</b>  http://127.0.0.1:8000/api/books/{id}<br>
+
+**GET**     http://127.0.0.1:8000/api/books
+
+**GET**     http://127.0.0.1:8000/api/books/1984
+
+
+**POST**    http://127.0.0.1:8000/api/books
+
+
+**PUT**     http://127.0.0.1:8000/api/books/{id}
+
+
+**DELETE**  http://127.0.0.1:8000/api/books/{id}
 
 ## RUN Application
 
 ```
 php artisan serve
 ```
-## URL
+## Local development server
 http://127.0.0.1:8000
